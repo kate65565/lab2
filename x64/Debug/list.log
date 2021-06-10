@@ -1,0 +1,5 @@
+﻿  list.c
+  main.c
+  Создание кода...
+C:\Users\Puhterina\Desktop\304x-master\list\list.c(84): warning C4716: list_delete: должна возвращать значение
+  list.vcxproj -> C:\Users\Puhterina\Desktop\304x-master\list\x64\Debug\list.exe
